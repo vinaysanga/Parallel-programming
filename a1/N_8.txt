@@ -1,0 +1,31 @@
+Please give an input size in bytes:
+
+Time taken for communication of message sized 100000 around the ring with 8 processes: 0.128442 seconds
+Please give an input size in bytes:
+
+Time taken for communication of message sized 100000 around the ring with 8 processes: 0.000172 seconds
+Please give an input size in bytes:
+
+Time taken for communication of message sized 1000000 around the ring with 8 processes: 0.002364 seconds
+Please give an input size in bytes:
+
+Time taken for communication of message sized 1000000 around the ring with 8 processes: 0.000760 seconds
+Please give an input size in bytes:
+
+Time taken for communication of message sized 10000000 around the ring with 8 processes: 0.014133 seconds
+Please give an input size in bytes:
+
+Time taken for communication of message sized 10000000 around the ring with 8 processes: 0.006765 seconds
+Please give an input size in bytes:
+
+Time taken for communication of message sized 100000000 around the ring with 8 processes: 0.133774 seconds
+Please give an input size in bytes:
+
+Time taken for communication of message sized 100000000 around the ring with 8 processes: 0.066936 seconds
+Please give an input size in bytes:
+
+Time taken for communication of message sized 1000000000 around the ring with 8 processes: 1.346386 seconds
+Please give an input size in bytes:
+
+Time taken for communication of message sized 1000000000 around the ring with 8 processes: 0.676913 seconds
+Please give an input size in bytes:

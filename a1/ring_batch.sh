@@ -1,0 +1,4 @@
+numbers="100000 100000 1000000 1000000 10000000 10000000 100000000 100000000 1000000000 1000000000 0"
+for number in $numbers; do
+  echo "$number"
+done | srun -N 16 ring -t 1:00 --mem=1G
